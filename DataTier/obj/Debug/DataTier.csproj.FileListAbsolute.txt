@@ -1,0 +1,12 @@
+D:\C#\DVLDSystem\DataTier\bin\Debug\DataTier.dll
+D:\C#\DVLDSystem\DataTier\bin\Debug\DataTier.pdb
+D:\C#\DVLDSystem\DataTier\obj\Debug\DataTier.csproj.AssemblyReference.cache
+D:\C#\DVLDSystem\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+D:\C#\DVLDSystem\DataTier\obj\Debug\DataTier.dll
+D:\C#\DVLDSystem\DataTier\obj\Debug\DataTier.pdb
+D:\Projects\DVLDSystem\DataTier\bin\Debug\DataTier.dll
+D:\Projects\DVLDSystem\DataTier\bin\Debug\DataTier.pdb
+D:\Projects\DVLDSystem\DataTier\obj\Debug\DataTier.csproj.AssemblyReference.cache
+D:\Projects\DVLDSystem\DataTier\obj\Debug\DataTier.csproj.CoreCompileInputs.cache
+D:\Projects\DVLDSystem\DataTier\obj\Debug\DataTier.dll
+D:\Projects\DVLDSystem\DataTier\obj\Debug\DataTier.pdb
